@@ -44,6 +44,7 @@ namespace DegreeConverter
 
             KelvinEntry.Text = String.Format("{0} °K",Kelvin);
             FahrenheitEntry.Text = String.Format("{0} °F", Fahrenheit);
+
         }
     }
 }
